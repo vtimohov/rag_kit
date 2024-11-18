@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: rag_kit
+Version: 0.1.0
+Summary: A short description of your project
+Author: Uladzimir Tsimochaŭ
+Author-email: ucmochau@outlook.com
+Requires-Dist: chromadb
+Requires-Dist: cohere
